@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Toast Demo 2</string>
+    <string name="Heading">FireStorm</string>
+    <string name="bf">Battlefield V</string>
+    <string name="email">email address</string>
+    <string name="password">password...</string>
+    <string name="login">login</string>
+</resources>
